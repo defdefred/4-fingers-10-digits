@@ -16,4 +16,11 @@
 | - | X | X |   | X |   |
 | * | X |   | X |   |   |
 | / | X |   | X | X |   |
+# more fingers
+| fingers | possibilities |
+|----|------|
+|  5 |   31 |
+|  8 |  256 |
+| 10 | 1023 |
 
+2 hands = 62
